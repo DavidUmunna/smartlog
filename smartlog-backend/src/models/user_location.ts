@@ -1,5 +1,6 @@
 import mongoose from  "mongoose"
 
+
 const userLocationSchema=new mongoose.Schema({
     userId: String,
     latitude: Number,
@@ -9,4 +10,4 @@ const userLocationSchema=new mongoose.Schema({
 
 const location=mongoose.model("location",userLocationSchema)
 
-module.exports=location;
+export default location;

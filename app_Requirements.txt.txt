@@ -37,7 +37,7 @@ Send alerts for missed check-ins or prolonged stays.
 Admin Dashboard
 View live logs of users.
 
-Filter logs by date, user, and location.
+Filter logs by date, user, and location time signed in ,time signed out documented movement period breaks.
 
 Export reports of attendance data.
 
